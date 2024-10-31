@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Lahore,Punjab, Pakistan"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "0145767"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "contact@ahsank.com"
+  }
+]
